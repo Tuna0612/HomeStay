@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268614676146",
+    "firebase_url": "https://homestay-6ee6f.firebaseio.com",
+    "project_id": "homestay-6ee6f",
+    "storage_bucket": "homestay-6ee6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268614676146:android:dca9d6d7dde3818a7de3ab",
+        "android_client_info": {
+          "package_name": "com.tuna.homestay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268614676146-tt9tcm8ct81f635qfucbh78nm3jna427.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuna.homestay",
+            "certificate_hash": "22afaa482103bd7a7d38513900238da8ba73badc"
+          }
+        },
+        {
+          "client_id": "268614676146-2pcoliln7rftjlh07pmd0mf45292s4uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9RX2eBe8RR7GctdsZCVBLQRdLW-NkrEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268614676146-2pcoliln7rftjlh07pmd0mf45292s4uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
